@@ -3,7 +3,7 @@ This repository contains the software code used in Stata 16.1 to perform meta-an
 inhibition in atherosclerosis, the results of which are presented in the research output 
 *Pharmacological targeting of the CCL2/CCR2 axis for atheroprotection: a meta-analysis of preclinical studies.
  
-The dataset for the code is available in the online version of aforementioned publication under the following DOI: # DOI #.
+The dataset for the code is available in the online version of aforementioned publication.
 
 # Fig2 #
 This code has been used to generate the results that are displayed in Fig. 2 of the manuscript, entitled:
