@@ -1,3 +1,3 @@
-meta esize n_intervention mean_intervention SD_intervention n_control mean_control SD_ctrl if outcome == "lesion" & vessel == "Aortic arch/root" | vessel == "Carotid artery" | vessel == "Femoral artery", studylabel(studylabel) random(dl)
+meta esize n_intervention mean_intervention SD_intervention n_control mean_control SD_control if outcome == "lesion size" & vessel == "Aortic arch/root", studylabel(studylabel) random(dl)
 
 meta regress "plaque macrophages"
